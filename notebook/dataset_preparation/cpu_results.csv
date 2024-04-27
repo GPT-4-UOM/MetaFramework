@@ -1,7 +1,7 @@
 dir,file_name,exponential_smoothing,arima,xgboost
-realAdExchange,exchange-2_cpc_results.csv,15.400000000000002,-17.1,58.0
-realAdExchange,exchange-2_cpm_results.csv,-56.800000000000004,-30.700000000000003,25.60000000000001
-realAdExchange,exchange-3_cpc_results.csv,-60.9,11.600000000000001,44.8
-realAdExchange,exchange-3_cpm_results.csv,-16.599999999999998,11.5,60.4
-realAdExchange,exchange-4_cpc_results.csv,-14.000000000000004,22.200000000000003,35.7
-realAdExchange,exchange-4_cpm_results.csv,-18.500000000000004,0.5,40.0
+realAdExchange,exchange-2_cpc_results.csv,3.799999999999999,8.200000000000003,69.39999999999999
+realAdExchange,exchange-2_cpm_results.csv,-9.7,8.100000000000001,54.6
+realAdExchange,exchange-3_cpc_results.csv,-6.600000000000001,21.700000000000003,44.3
+realAdExchange,exchange-3_cpm_results.csv,-26.999999999999996,15.0,71.7
+realAdExchange,exchange-4_cpc_results.csv,-12.099999999999998,29.1,39.8
+realAdExchange,exchange-4_cpm_results.csv,-11.0,25.6,49.0
